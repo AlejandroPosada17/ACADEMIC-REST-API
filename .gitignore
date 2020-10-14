@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/windows,node
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,node
+# Created by https://www.toptal.com/developers/gitignore/api/node,windows
+# Edit at https://www.toptal.com/developers/gitignore?templates=node,windows
 
 ### Node ###
 # Logs
@@ -138,4 +138,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,nod
+# End of https://www.toptal.com/developers/gitignore/api/node,windows
